@@ -132,3 +132,20 @@ div{
     border-radius: 50%;
     border-top: 200px solid #465a05;
 }
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #fdf1d7;
+    text-align: center;
+  }
+  .footer a {
+    text-decoration: none;
+    color: #5c7301;
+  }
+  .footer a:hover {
+    text-decoration: underline;
+    color: #000
+  }
